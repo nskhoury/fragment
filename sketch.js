@@ -1,3 +1,10 @@
+/*
+ * Fragment
+ * Created by Nadine Khoury
+ * https://www.nskhoury.com
+ * © 2026 Nadine Khoury. All rights reserved.
+ */
+
 const IMAGE_FILE = '';
 
 const BOX_IN = 8;
